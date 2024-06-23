@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/etoski/Personal_Project/SemProject/build",
+  "command": "/usr/bin/c++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -std=gnu++17 -fPIC -o CMakeFiles/BloodBound.dir/src/main.cpp.o -c /home/etoski/Personal_Project/SemProject/src/main.cpp",
+  "file": "/home/etoski/Personal_Project/SemProject/src/main.cpp",
+  "output": "CMakeFiles/BloodBound.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/etoski/Personal_Project/SemProject/build",
+  "command": "/usr/bin/c++ -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtConcurrent -isystem /usr/include/x86_64-linux-gnu/qt6/QtSql -std=gnu++17 -fPIC -o CMakeFiles/BloodBound.dir/src/mainWindow.cpp.o -c /home/etoski/Personal_Project/SemProject/src/mainWindow.cpp",
+  "file": "/home/etoski/Personal_Project/SemProject/src/mainWindow.cpp",
+  "output": "CMakeFiles/BloodBound.dir/src/mainWindow.cpp.o"
+}
+]
